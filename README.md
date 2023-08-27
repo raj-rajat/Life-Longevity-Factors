@@ -27,3 +27,18 @@ The dataset used for this analysis contains information on various factors and t
 
 To run the analysis, you will need to have Python installed on your computer. You can then clone this repository and install the required packages using the following commands:
 
+
+## Usage :rocket:
+
+To run the analysis, navigate to the repository folder and run the `main.py` file:
+
+
+This will run the analysis and generate the visualizations.
+
+## Contributing :handshake:
+
+Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
+
+## License :scroll:
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
